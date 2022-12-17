@@ -11,6 +11,4 @@ This is my repo for some high res images I've been collecting
 over time and this repo will grow and hopefully be useful.  
 updates should be regular check back often.
 
-# hResID 2
-
-# Special Thanks to nsamarasDev
+# nsamarasDev
