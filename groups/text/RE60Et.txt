@@ -1,0 +1,18 @@
+Earth at Perihelion
+We've reached perihelion! Two weeks after winter solstice the Earth's orbit is closer to the sun than at any other time of year—a result of the Earth's elliptical orbit. You may think, 'If we're so close to the sun, why can't I feel the heat?' Well, that's because we're only receiving about 7% more solar energy than normal, which doesn't really have much impact on the weather
+
+Two weeks after the winter solstice, Earth's orbit comes closest to the sun. What is that called?
+A: Aphelion
+B: Perihelion
+C: Crispinhelion
+
+Perihelion 73% got this right
+In an elliptical orbit like Earth's, there are two terms to describe the nearest and farthest you can be on an elliptical apsis—perihelion and aphelion, respectively. Perihelion typically occurs two weeks after the winter solstice, while aphelion usually occurs in early July, two weeks after the summer solstice.
+
+There are two apsides in any elliptic orbit. The name for each apsis is created from the prefixes ap-, apo- (from ἀπ(ό), (ap(o)-) 'away from'), or peri- (from περί (peri-) 'near'), each referring to the farthest and closest point to the primary body the affixing necessary suffix that describes the primary body in the orbit. In this case, the suffix for Earth is -gee, so the apsides' names are apogee and perigee. For the Sun, its suffix is -helion, so the names are aphelion and perihelion.
+
+According to Newton's laws of motion, all periodic orbits are ellipses. The barycenter of the two bodies may lie well within the bigger body—e.g., the Earth–Moon barycenter is about 75% of the way from Earth's center to its surface. If, compared to the larger mass, the smaller mass is negligible (e.g., for satellites), then the orbital parameters are independent of the smaller mass.
+
+When used as a suffix—that is, -apsis—the term can refer to the two distances from the primary body to the orbiting body when the latter is located: 1) at the periapsis point, or 2) at the apoapsis point (compare both graphics, second figure). The line of apsides denotes the distance of the line that joins the nearest and farthest points across an orbit; it also refers simply to the extreme range of an object orbiting a host body (see top figure; see third figure).
+
+In orbital mechanics, the apsides technically refer to the distance measured between the center of mass of the central body and the center of mass of the orbiting body. However, in the case of a spacecraft, the terms are commonly used to refer to the orbital altitude of the spacecraft above the surface of the central body (assuming a constant, standard reference radius).
